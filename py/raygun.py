@@ -4,7 +4,7 @@ from lib.RunWorld import divideByZero
 
 
 def handle_exception(exc_type, exc_value, exc_traceback):
-    cl = raygunprovider.RaygunSender("7oqKqqnkcGwf0PdIZZVgQ")
+    cl = raygunprovider.RaygunSender("test1234")
     cl.send_exception(exc_info=(exc_type, exc_value, exc_traceback))
 
 
