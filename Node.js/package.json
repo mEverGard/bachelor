@@ -1,0 +1,17 @@
+{
+  "name": "bachelor-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^6.19.6",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}

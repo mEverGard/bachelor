@@ -1,0 +1,4 @@
+aiohttp==3.6.2
+raygun4py==4.3.2
+rollbar==0.16.2
+sentry_sdk==1.5.8
